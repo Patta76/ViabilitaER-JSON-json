@@ -4048,66 +4048,43 @@
     "lunghezza_km": 15.492
   },
   {
-    "id": 516,
-    "file": "516.json",
+    "id": 531,
+    "file": "531.json",
     "tipo": "SP",
     "numero": "41",
-    "ref": "SP41",
-    "provincia": "BO",
-    "nome": "Via Riga",
-    "network": "",
-    "lunghezza_km": 4.21
-  },
-  {
-    "id": 517,
-    "file": "517.json",
-    "tipo": "SP",
-    "numero": "41",
-    "ref": "SP41",
-    "provincia": "BO",
-    "nome": "via Castelfranco",
-    "network": "",
-    "lunghezza_km": 0.239
-  },
-  {
-    "id": 518,
-    "file": "518.json",
-    "tipo": "SP",
-    "numero": "41",
-    "ref": "SP41",
-    "provincia": "BO",
-    "nome": "Via Larga",
-    "network": "",
-    "lunghezza_km": 0.076
-  },
-  {
-    "id": 522,
-    "file": "522.json",
-    "tipo": "SP",
-    "numero": "41",
-    "provincia": "BO",
+    "provincia": "FE",
     "ref": "SP41",
     "nome": "Via Riga",
     "lunghezza_km": 4.21
   },
   {
-    "id": 523,
-    "file": "523.json",
+    "id": 532,
+    "file": "532.json",
     "tipo": "SP",
     "numero": "41",
     "provincia": "BO",
     "ref": "SP41",
-    "nome": "via Castelfranco",
-    "lunghezza_km": 0.239
+    "nome": "Via Castelfranco",
+    "lunghezza_km": 5.4
   },
   {
-    "id": 524,
-    "file": "524.json",
+    "id": 533,
+    "file": "533.json",
     "tipo": "SP",
     "numero": "41",
     "provincia": "BO",
     "ref": "SP41",
     "nome": "Via Larga",
-    "lunghezza_km": 0.076
+    "lunghezza_km": 1.5
+  },
+  {
+    "id": 534,
+    "file": "534.json",
+    "tipo": "SP",
+    "numero": "41",
+    "provincia": "BO",
+    "ref": "SP41",
+    "nome": "SP41",
+    "lunghezza_km": 6.9
   }
 ]
