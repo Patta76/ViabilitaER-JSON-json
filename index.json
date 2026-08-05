@@ -4096,5 +4096,16 @@
     "ref": "SP66",
     "nome": "SP66",
     "lunghezza_km": 34.5
+  },
+  {
+    "id": 536,
+    "file": "536.json",
+    "tipo": "SP",
+    "numero": "20",
+    "ref": "SP20",
+    "provincia": "FE",
+    "nome": "SP 20 Ferrara - Formignana",
+    "ref": "",
+    "lunghezza_km":12000
   }
 ]
