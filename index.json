@@ -4126,5 +4126,16 @@
     "provincia": "MO",
     "nome": "Ex Strada Provinciale 486",
     "lunghezza_km":84.52
+  },
+  {
+    "id": 539,
+    "file": "539.json",
+    "tipo": "SP",
+    "numero": "136",
+    "ref": "SP136",
+    "provincia": "RN",
+    "nome": "SP 136 Tolemaide",
+    "ref": "SP136",
+    "lunghezza_km":5,1
   }
 ]
