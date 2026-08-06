@@ -4055,7 +4055,7 @@
     "provincia": "FE",
     "ref": "SP41",
     "nome": "Via Riga",
-    "lunghezza_km": 4.21
+    "lunghezza_km": 4210
   },
   {
     "id": 532,
@@ -4065,7 +4065,7 @@
     "provincia": "BO",
     "ref": "SP41",
     "nome": "Via Castelfranco",
-    "lunghezza_km": 5.4
+    "lunghezza_km": 5400
   },
   {
     "id": 533,
@@ -4075,7 +4075,7 @@
     "provincia": "BO",
     "ref": "SP41",
     "nome": "Via Larga",
-    "lunghezza_km": 1.5
+    "lunghezza_km": 1500
   },
   {
     "id": 534,
@@ -4085,7 +4085,7 @@
     "provincia": "BO",
     "ref": "SP41",
     "nome": "SP41",
-    "lunghezza_km": 6.9
+    "lunghezza_km": 6900
   },
   {
     "id": 535,
@@ -4095,7 +4095,7 @@
     "provincia": "FE",
     "ref": "SP66",
     "nome": "SP66",
-    "lunghezza_km": 34.5
+    "lunghezza_km": 34500
   },
   {
     "id": 536,
@@ -4105,7 +4105,7 @@
     "ref": "SP20",
     "provincia": "FE",
     "nome": "SP 20 Ferrara - Formignana",
-    "lunghezza_km":12
+    "lunghezza_km":12000
   },
   {
     "id": 537,
@@ -4115,7 +4115,7 @@
     "ref": "SP486R",
     "provincia": "MO",
     "nome": "Strada Provinciale 486 R di Montefiorino",
-    "lunghezza_km":84.52
+    "lunghezza_km":84520
   },
   {
     "id": 538,
@@ -4125,7 +4125,7 @@
     "ref": "SP486",
     "provincia": "MO",
     "nome": "Ex Strada Provinciale 486",
-    "lunghezza_km":84.52
+    "lunghezza_km":84520
   },
   {
     "id": 539,
@@ -4135,7 +4135,7 @@
     "ref": "SP136",
     "provincia": "RN",
     "nome": "SP 136 Tolemaide",
-    "ref": "SP136",
-    "lunghezza_km":5,1
+    "network": "",
+    "lunghezza_km":5100
   }
 ]
