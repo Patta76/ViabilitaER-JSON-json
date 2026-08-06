@@ -4105,7 +4105,26 @@
     "ref": "SP20",
     "provincia": "FE",
     "nome": "SP 20 Ferrara - Formignana",
-    "network":"",
     "lunghezza_km":12
+  },
+  {
+    "id": 537,
+    "file": "537.json",
+    "tipo": "SP",
+    "numero": "486R",
+    "ref": "SP486R",
+    "provincia": "MO",
+    "nome": "Strada Provinciale 486 R di Montefiorino",
+    "lunghezza_km":84.52
+  },
+  {
+    "id": 538,
+    "file": "538.json",
+    "tipo": "SP",
+    "numero": "486",
+    "ref": "SP486",
+    "provincia": "MO",
+    "nome": "Ex Strada Provinciale 486",
+    "lunghezza_km":84.52
   }
 ]
