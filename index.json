@@ -4055,7 +4055,7 @@
     "provincia": "FE",
     "ref": "SP41",
     "nome": "Via Riga",
-    "lunghezza_km": 4210
+    "lunghezza_km": 4.21
   },
   {
     "id": 532,
@@ -4065,7 +4065,7 @@
     "provincia": "BO",
     "ref": "SP41",
     "nome": "Via Castelfranco",
-    "lunghezza_km": 5400
+    "lunghezza_km": 5.4
   },
   {
     "id": 533,
@@ -4075,7 +4075,7 @@
     "provincia": "BO",
     "ref": "SP41",
     "nome": "Via Larga",
-    "lunghezza_km": 1500
+    "lunghezza_km": 1.5
   },
   {
     "id": 534,
@@ -4085,7 +4085,7 @@
     "provincia": "BO",
     "ref": "SP41",
     "nome": "SP41",
-    "lunghezza_km": 6900
+    "lunghezza_km": 6.9
   },
   {
     "id": 535,
@@ -4095,7 +4095,7 @@
     "provincia": "FE",
     "ref": "SP66",
     "nome": "SP66",
-    "lunghezza_km": 34500
+    "lunghezza_km": 34.5
   },
   {
     "id": 536,
@@ -4105,7 +4105,7 @@
     "ref": "SP20",
     "provincia": "FE",
     "nome": "SP 20 Ferrara - Formignana",
-    "lunghezza_km":12000
+    "lunghezza_km":12
   },
   {
     "id": 537,
@@ -4115,7 +4115,7 @@
     "ref": "SP486R",
     "provincia": "MO",
     "nome": "Strada Provinciale 486 R di Montefiorino",
-    "lunghezza_km":84520
+    "lunghezza_km":84.520
   },
   {
     "id": 538,
@@ -4125,7 +4125,7 @@
     "ref": "SP486",
     "provincia": "MO",
     "nome": "Ex Strada Provinciale 486",
-    "lunghezza_km":84520
+    "lunghezza_km":84.520
   },
   {
     "id": 539,
@@ -4136,6 +4136,97 @@
     "provincia": "RN",
     "nome": "SP 136 Tolemaide",
     "network": "",
-    "lunghezza_km":5100
+    "lunghezza_km":5.1
+  },
+  {
+    "id": 540,
+    "file": "540.json",
+    "tipo": "SP",
+    "numero": "467",
+    "ref": "SP467",
+    "provincia": "RE",
+    "nome": "SP467R",
+    "network": "",
+    "lunghezza_km":32.2
+  },
+  {
+    "id": 541,
+    "file": "541.json",
+    "tipo": "SP",
+    "numero": "146",
+    "ref": "SP146",
+    "provincia": "RN",
+    "nome": "SP146 Sapigno",
+    "network": "",
+    "lunghezza_km":8.17
+  },
+  {
+    "id": 542,
+    "file": "542.json",
+    "tipo": "SP",
+    "numero": "29",
+    "ref": "SP29",
+    "provincia": "FE",
+    "nome": "SP29 Portomaggiore - Raffanello",
+    "network": "",
+    "lunghezza_km":21.7
+  },
+  {
+    "id": 543,
+    "file": "543.json",
+    "tipo": "SP",
+    "numero": "1",
+    "ref": "SP1",
+    "provincia": "FE",
+    "nome": "SP 1 di Comacchio",
+    "network": "",
+    "lunghezza_km":22.2
+  },
+  {
+    "id": 544,
+    "file": "544.json",
+    "tipo": "SP",
+    "numero": "9",
+    "ref": "SP9",
+    "provincia": "FE",
+    "nome": "Sp 9 Bondeno-Casumaro",
+    "network": "",
+    "lunghezza_km":7.4
+  },
+  {
+    "id": 545,
+    "file": "545.json",
+    "tipo": "SP",
+    "numero": "413",
+    "ref": "SP413",
+    "provincia": "RE",
+    "nome": "",
+    "network": "",
+    "lunghezza_km":29.410
+  },
+  {
+    "id": 546,
+    "file": "546.json",
+    "tipo": "SP",
+    "numero": "36",
+    "ref": "SP36",
+    "provincia": "RN",
+    "nome": "SP36 Morciano-Montefiore",
+    "network": "",
+    "lunghezza_km":4.4
+  },
+  {
+    "id": 547,
+    "file": "547.json",
+    "tipo": "SP",
+    "numero": "37",
+    "ref": "SP37",
+    "provincia": "BO",
+    "nome": "SP 37 Ganzole",
+    "network": "",
+    "lunghezza_km":8.400
   }
+
+
+
 ]
