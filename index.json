@@ -4224,9 +4224,149 @@
     "provincia": "BO",
     "nome": "SP 37 Ganzole",
     "network": "",
-    "lunghezza_km":8.400
+    "lunghezza_km":8.4
+  },
+  {
+    "id": 548,
+    "file": "548.json",
+    "tipo": "SP",
+    "numero": "25",
+    "ref": "SP25",
+    "provincia": "FE",
+    "nome": "SP 25 Poggio Renatico – S M Codifiume",
+    "network": "",
+    "lunghezza_km":21.7
+  },
+  {
+    "id": 549,
+    "file": "549.json",
+    "tipo": "SP",
+    "numero": "26",
+    "ref": "SP26",
+    "provincia": "FE",
+    "nome": "SP 26 Ospital Monacale - Consandolo",
+    "network": "",
+    "lunghezza_km":4.7
+  },
+  {
+    "id": 550,
+    "file": "550.json",
+    "tipo": "SP",
+    "numero": "46",
+    "ref": "SP46",
+    "provincia": "FE",
+    "nome": "SP 46 Cento – Alberone",
+    "network": "",
+    "lunghezza_km":8.8
+  },
+  {
+    "id": 551,
+    "file": "551.json",
+    "tipo": "SP",
+    "numero": "50",
+    "ref": "SP50",
+    "provincia": "FE",
+    "nome": "SP 50 Vigarano. M – Poggio Renatico",
+    "network": "",
+    "lunghezza_km":8.2
+  },
+  {
+    "id": 552,
+    "file": "552.json",
+    "tipo": "SP",
+    "numero": "18",
+    "ref": "SP18",
+    "provincia": "MO",
+    "nome": "SP 18 Puianello",
+    "network": "",
+    "lunghezza_km":16.9
+  },
+  {
+    "id": 553,
+    "file": "553.json",
+    "tipo": "SP",
+    "numero": "21",
+    "ref": "SP21",
+    "provincia": "PC",
+    "nome": "Strada Provinciale n. 21 di Val d'Arda",
+    "network": "",
+    "lunghezza_km":18.7
+  },
+  {
+    "id": 554,
+    "file": "554.json",
+    "tipo": "SP",
+    "numero": "50",
+    "ref": "SP50",
+    "provincia": "PC",
+    "nome": "Strada provinciale n. 50 del Mercatello",
+    "network": "",
+    "lunghezza_km":24.5
+  },
+  {
+    "id": 555,
+    "file": "555.json",
+    "tipo": "SP",
+    "numero": "14",
+    "ref": "SP14",
+    "provincia": "PC",
+    "nome": "Strada Provinciale n. 14 della Val Chero",
+    "network": "",
+    "lunghezza_km":26.1
+  },
+  {
+    "id": 556,
+    "file": "556.json",
+    "tipo": "SP",
+    "numero": "14 BIS",
+    "ref": "SP14 BIS",
+    "provincia": "PC",
+    "nome": "Strada Provinciale n. 14 della Val Chero",
+    "network": "",
+    "lunghezza_km":3.6
+  },
+  {
+    "id": 557,
+    "file": "557.json",
+    "tipo": "SP",
+    "numero": "27",
+    "ref": "SP27",
+    "provincia": "PC",
+    "nome": "Strada Provinciale n. 27 di Ziano",
+    "network": "",
+    "lunghezza_km":13
+  },
+  {
+    "id": 558,
+    "file": "558.json",
+    "tipo": "SP",
+    "numero": "35BI",
+    "ref": "SP35BI",
+    "provincia": "RN",
+    "nome": "SP 35 BIS",
+    "network": "",
+    "lunghezza_km":2
+  },
+  {
+    "id": 559,
+    "file": "559.json",
+    "tipo": "SP",
+    "numero": "64",
+    "ref": "SP64",
+    "provincia": "RN",
+    "nome": "SP 64",
+    "network": "",
+    "lunghezza_km":6
+  },
+  {
+    "id": 560,
+    "file": "560.json",
+    "tipo": "SP",
+    "numero": "17",
+    "ref": "SP17",
+    "provincia": "RN",
+    "nome": "SP 17",
+    "network": "",
+    "lunghezza_km":8.1
   }
-
-
-
 ]
