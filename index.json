@@ -4368,5 +4368,49 @@
     "nome": "SP 17",
     "network": "",
     "lunghezza_km":8.1
+  },
+  {
+    "id": 561,
+    "file": "561.json",
+    "tipo": "SP",
+    "numero": "413",
+    "ref": "SP413",
+    "provincia": "MO",
+    "nome": "SP 413",
+    "network": "",
+    "lunghezza_km":37
+  },
+  {
+    "id": 562,
+    "file": "562.json",
+    "tipo": "SP",
+    "numero": "82",
+    "ref": "SP82",
+    "provincia": "FE",
+    "nome": "Sp 82 Argine Mezzano",
+    "network": "",
+    "lunghezza_km":7.7
+  },
+  {
+    "id": 563,
+    "file": "563.json",
+    "tipo": "SP",
+    "numero": "69",
+    "ref": "SP69",
+    "provincia": "FE",
+    "nome": "Sp 69 Virgiliana",
+    "network": "",
+    "lunghezza_km":36
+  },
+  {
+    "id": 564,
+    "file": "564.json",
+    "tipo": "SP",
+    "numero": "15",
+    "ref": "SP15",
+    "provincia": "FE",
+    "nome": "Sp 15 Via del Mare",
+    "network": "",
+    "lunghezza_km":50.8
   }
 ]
