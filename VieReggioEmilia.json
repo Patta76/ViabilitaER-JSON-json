@@ -1,0 +1,56 @@
+﻿[
+  {	
+    "nome": "Nome1",	
+    "tipo": "tipo1",	
+    "comune": "comune1",	
+    "latInizio": 43.050,	
+    "lonInizio": 21.10,	
+    "latFine": 43.05555555553,	
+     "lonFine": 89876555555553,	
+    "polyline": [[43.050,21.10],[43.0111,21.1999991],[43.02,21.12],[43.05555555553,21.189876555555553]]	
+  }
+,
+{
+    "nome": "Piazzetta antistante l'Oratorio San Filippo Neri",
+    "tipo": "Piazza",
+    "comune": "Poviglio",
+    "lat": 44.841764,
+    "lon": 10.542079
+  }
+
+
+
+,
+{
+    "nome": "area parcheggio adiacente l'intersezione via Pisi-via Fermi",
+    "tipo": "Parcheggio",
+    "comune": "Gattatico",
+    "lat": 44.802569,
+    "lon": 10.468873
+  }
+
+
+
+,
+{
+    "nome": "incrocio in zona Bar La Palazzina - via Roma, via Monte Portola, via Don. P. Valcavi",
+    "tipo": "Incrocio",
+    "comune": "Casina",
+    "lat": 44.507492,
+    "lon": 10.498605
+  }
+
+
+
+,
+{
+    "nome": "incrocio via Cà Matta, via Don P. Valcavi",
+    "tipo": "Incrocio",
+    "comune": "Casina",
+    "lat": 44.508028,
+    "lon": 10.497693
+  }
+
+
+
+]

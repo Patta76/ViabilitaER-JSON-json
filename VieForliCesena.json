@@ -1,0 +1,89 @@
+﻿[
+  {	
+    "nome": "Nome1",	
+    "tipo": "tipo1",	
+    "comune": "comune1",	
+    "latInizio": 43.050,	
+    "lonInizio": 21.10,	
+    "latFine": 43.05555555553,	
+     "lonFine": 89876555555553,	
+    "polyline": [[43.050,21.10],[43.0111,21.1999991],[43.02,21.12],[43.05555555553,21.189876555555553]]	
+  }
+,
+{
+    "nome": "pontile situato nei pressi della foce del fiume Rubicone",
+    "tipo": "pontile",
+    "comune": "Gatteo",
+    "lat": 44.166935,
+    "lon": 12.440748
+  }
+
+
+
+,
+{
+    "nome": "Ponte di Giulio Cesare",
+    "tipo": "ponte",
+    "comune": "Gatteo",
+    "lat": 44.166935,
+    "lon": 12.440748
+  }
+
+
+
+,
+{
+    "nome": "Parcheggi laterali adiacenti al perimetro di Piazza Romagna Mia",
+    "tipo": "Parcheggi",
+    "comune": "Gatteo",
+    "lat": 44.173190,
+    "lon": 12.436179
+  }
+
+
+
+,
+{
+    "nome": "Parcheggio Maggiolino - Via Gramsci/Via Ravenna",
+    "tipo": "Parcheggo",
+    "comune": "Gatteo",
+    "lat": 44.168939,
+    "lon": 12.440182
+  }
+
+
+
+,
+{
+    "nome": "Parcheggio Maggiolino",
+    "tipo": "Parcheggo",
+    "comune": "Gatteo",
+    "lat": 44.168939,
+    "lon": 12.440182
+  }
+
+
+
+,
+{
+    "nome": "Viale Europa - intersezione Rotatoria Schuman",
+    "tipo": "Intersezione",
+    "comune": "Gatteo",
+    "lat": 44.167106,
+    "lon": 12.435130
+  }
+
+
+
+,
+{
+    "nome": "Parcheggio pubblico temporaneo - area verde adiacente alla discoteca Melania",
+    "tipo": "Parcheggio",
+    "comune": "Gatteo",
+    "lat": 44.167363,
+    "lon": 12.435277
+  }
+
+
+
+]

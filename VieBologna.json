@@ -1,0 +1,56 @@
+﻿[
+  {	
+    "nome": "Nome1",	
+    "tipo": "tipo1",	
+    "comune": "comune1",	
+    "latInizio": 43.050,	
+    "lonInizio": 21.10,	
+    "latFine": 43.05555555553,	
+     "lonFine": 89876555555553,	
+    "polyline": [[43.050,21.10],[43.0111,21.1999991],[43.02,21.12],[43.05555555553,21.189876555555553]]	
+  }
+,
+{
+    "nome": "Terreni agrari, terreni saldi, terreni pascolivi e boschi",
+    "tipo": "Terreni",
+    "comune": "Monterenzio",
+    "lat": 44.327754,
+    "lon": 11.403064
+  }
+
+
+
+,
+{
+    "nome": "Area cimiteriale del capoluogo",
+    "tipo": "Area cimiteriale",
+    "comune": "Castello d'Argile",
+    "lat": 44.683657,
+    "lon": 11.295839
+  }
+
+
+
+,
+{
+    "nome": "SS 253 Bis Trasversale di Pianura",
+    "tipo": "Strada statale",
+    "comune": "Castel Maggiore",
+    "latInizio": 44.605173,
+    "lonInizio": 11.334948,
+    "latFine": 44.598294,
+     "lonFine": 11.351236,
+    "polyline": [[44.605173,11.334948],[44.603654,11.337384],[44.602812,11.339864],[44.602038,11.342233],[44.601385,11.343678],[44.600136,11.346527],[44.598989,11.348974],[44.598294,11.351236]]
+  }
+,
+{
+    "nome": "CAVALCAVIA N.17 – VIA SPAGNOLA",
+    "tipo": "CAVALCAVIA",
+    "comune": "Bentivoglio",
+    "lat": 44.654375,
+    "lon": 11.449519
+  }
+
+
+
+]

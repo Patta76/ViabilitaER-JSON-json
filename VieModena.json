@@ -1,0 +1,67 @@
+﻿[
+  {	
+    "nome": "Nome1",	
+    "tipo": "tipo1",	
+    "comune": "comune1",	
+    "latInizio": 43.050,	
+    "lonInizio": 21.10,	
+    "latFine": 43.05555555553,	
+     "lonFine": 89876555555553,	
+    "polyline": [[43.050,21.10],[43.0111,21.1999991],[43.02,21.12],[43.05555555553,21.189876555555553]]	
+  }
+,
+{
+    "nome": "Via 23 Dicembre (tratto compreso tra Via Marconi e Via Cà di Vinchio)",
+    "tipo": "Via",
+    "comune": "Palagano",
+    "latInizio": 44.318345,
+    "lonInizio": 10.644710,
+    "latFine": 44.324100,
+     "lonFine": 10.646304,
+    "polyline": [[44.318345,10.644710],[44.322308,10.647302],[44.324100,10.646304]]
+  }
+,
+{
+    "nome": "Area antistante il Cinema “Ignazio Ranucci”",
+    "tipo": "Area",
+    "comune": "Palagano",
+    "lat": 44.322344,
+    "lon": 10.647857
+  }
+
+
+
+,
+{
+    "nome": "Ponte della Pedemontana sul torrente Nizzola",
+    "tipo": "Ponte",
+    "comune": "Modena",
+    "lat": 44.526337,
+    "lon": 10.980565
+  }
+
+
+
+,
+{
+    "nome": "Ponte della Pedemontana sul torrente Nizzola",
+    "tipo": "Ponte",
+    "comune": "Castelvetro",
+    "lat": 44.526337,
+    "lon": 10.980565
+  }
+
+
+
+,
+{
+    "nome": "Ponte della Pedemontana sul torrente Nizzola",
+    "tipo": "Ponte",
+    "comune": "Castelvetro di Modena",
+    "lat": 44.526337,
+    "lon": 10.980565
+  }
+
+
+
+]

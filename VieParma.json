@@ -1,0 +1,45 @@
+﻿[
+  {	
+    "nome": "Nome1",	
+    "tipo": "tipo1",	
+    "comune": "comune1",	
+    "latInizio": 43.050,	
+    "lonInizio": 21.10,	
+    "latFine": 43.05555555553,	
+     "lonFine": 89876555555553,	
+    "polyline": [[43.050,21.10],[43.0111,21.1999991],[43.02,21.12],[43.05555555553,21.189876555555553]]	
+  }
+,
+{
+    "nome": "Asse viario 1",
+    "tipo": "Asse",
+    "comune": "Fidenza",
+    "lat": 44.869202,
+    "lon": 10.057819
+  }
+
+
+
+,
+{
+    "nome": "Asse viario 2",
+    "tipo": "Asse",
+    "comune": "Fidenza",
+    "lat": 44.869531,
+    "lon": 10.058018
+  }
+
+
+
+,
+{
+    "nome": "Area di parcheggio posta a est del centro parrocchiale Don Bosco",
+    "tipo": "Parcheggio",
+    "comune": "Sorbolo Mezzani",
+    "lat": 44.846386,
+    "lon": 10.441058
+  }
+
+
+
+]
