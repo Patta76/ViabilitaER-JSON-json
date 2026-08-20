@@ -53,4 +53,290 @@
 
 
 
+,
+{
+    "nome": "Viale Zavattini (ex. viale Po)",
+    "tipo": "Via",
+    "comune": "Luzzara",
+    "latInizio": 44.970177,
+    "lonInizio": 10.671545,
+    "latFine": 44.964286,
+     "lonFine": 10.680649,
+    "polyline": [[44.970177,10.671545],[44.968803,10.671406],[44.968242,10.674034],[44.968060,10.676674],[44.967968,10.677091],[44.967448,10.678419],[44.967174,10.678684],[44.964555,10.680308],[44.964286,10.680649]]
+  }
+,
+{
+    "nome": "Centro urbano di San Polo d'Enza",
+    "tipo": "Via",
+    "comune": "San Polo d'Enza",
+    "lat": 44.626414,
+    "lon": 10.421197
+  }
+
+
+
+,
+{
+    "nome": "Piazzale 2 Agosto",
+    "tipo": "Via",
+    "comune": "Correggio",
+    "lat": 44.775472,
+    "lon": 10.779619
+  }
+
+
+
+,
+{
+    "nome": "Parchi e aree verdi comunali",
+    "tipo": "Piazza",
+    "comune": "Luzzara",
+    "lat": 44.959840,
+    "lon": 10.690347
+  }
+
+
+
+,
+{
+    "nome": "Area sgambamento cani",
+    "tipo": "Piazza",
+    "comune": "Albinea",
+    "lat": 44.631131,
+    "lon": 10.611174
+  }
+
+
+
+,
+{
+    "nome": "Via S. Allende",
+    "tipo": "Via",
+    "comune": "Sant'Ilario d'Enza",
+    "latInizio": 44.762744,
+    "lonInizio": 10.454659,
+    "latFine": 44.763907,
+     "lonFine": 10.451772,
+    "polyline": [[44.762744,10.454659],[44.763907,10.451772]]
+  }
+,
+{
+    "nome": "Via Cavour",
+    "tipo": "Via",
+    "comune": "Sant'Ilario d'Enza",
+    "latInizio": 44.764606,
+    "lonInizio": 10.449730,
+    "latFine": 44.763977,
+     "lonFine": 10.451636,
+    "polyline": [[44.764606,10.449730],[44.763977,10.451636]]
+  }
+,
+{
+    "nome": "Via Pisacane",
+    "tipo": "Via",
+    "comune": "Sant'Ilario d'Enza",
+    "latInizio": 44.764594,
+    "lonInizio": 10.447557,
+    "latFine": 44.764160,
+     "lonFine": 10.449212,
+    "polyline": [[44.764594,10.447557],[44.764160,10.449212]]
+  }
+,
+{
+    "nome": "Via Foscolo",
+    "tipo": "Via",
+    "comune": "Sant'Ilario d'Enza",
+    "latInizio": 44.764231,
+    "lonInizio": 10.447357,
+    "latFine": 44.763806,
+     "lonFine": 10.448964,
+    "polyline": [[44.764231,10.447357],[44.763860,10.448639],[44.763806,10.448964]]
+  }
+,
+{
+    "nome": "Via De Amicis",
+    "tipo": "Via",
+    "comune": "Sant'Ilario d'Enza",
+    "latInizio": 44.761617,
+    "lonInizio": 10.448840,
+    "latFine": 44.762347,
+     "lonFine": 10.449290,
+    "polyline": [[44.761617,10.448840],[44.762347,10.449290],[44.762592,10.449437],[44.762707,10.449711],[44.762637,10.450221],[44.762485,10.451122],[44.762637,10.450221],[44.762176,10.450044],[44.762347,10.449290]]
+  }
+,
+{
+    "nome": "Via Ferraris",
+    "tipo": "Via",
+    "comune": "Sant'Ilario d'Enza",
+    "latInizio": 44.754355,
+    "lonInizio": 10.477048,
+    "latFine": 44.749852,
+     "lonFine": 10.492004,
+    "polyline": [[44.754355,10.477048],[44.753052,10.480975],[44.750866,10.487530],[44.750919,10.489183],[44.750660,10.489944],[44.750325,10.490685],[44.749852,10.492004]]
+  }
+,
+{
+    "nome": "Via Pasteur",
+    "tipo": "Via",
+    "comune": "Sant'Ilario d'Enza",
+    "latInizio": 44.749863,
+    "lonInizio": 10.483252,
+    "latFine": 44.751758,
+     "lonFine": 10.484592,
+    "polyline": [[44.749863,10.483252],[44.751758,10.484592]]
+  }
+,
+{
+    "nome": "Via Emilia",
+    "tipo": "Via",
+    "comune": "Sant'Ilario d'Enza",
+    "latInizio": 44.753730,
+    "lonInizio": 10.471679,
+    "latFine": 44.744042,
+     "lonFine": 10.500025,
+    "polyline": [[44.753730,10.471679],[44.747269,10.490390],[44.744042,10.500025]]
+  }
+,
+{
+    "nome": "Galleria del Seminario",
+    "tipo": "galleria",
+    "comune": "Casina",
+    "latInizio": 44.499409,
+    "lonInizio": 10.488314,
+    "latFine": 44.508554,
+     "lonFine": 10.493235,
+    "polyline": [[44.499409,10.488314],[44.501124,10.488418],[44.502739,10.489351],[44.507299,10.492870],[44.508554,10.493235]]
+  }
+,
+{
+    "nome": "SS 63",
+    "tipo": "galleria",
+    "comune": "Casina",
+    "latInizio": 44.508430,
+    "lonInizio": 10.493229,
+    "latFine": 44.514035,
+     "lonFine": 10.494382,
+    "polyline": [[44.508430,10.493229],[44.511092,10.493138],[44.514035,10.494382]]
+  }
+,
+{
+    "nome": "Via Sauro",
+    "tipo": "galleria",
+    "comune": "Novellara",
+    "latInizio": 44.843410,
+    "lonInizio": 10.724470,
+    "latFine": 44.845352,
+     "lonFine": 10.725009,
+    "polyline": [[44.843410,10.724470],[44.845352,10.725009]]
+  }
+,
+{
+    "nome": "Tangenziale",
+    "tipo": "galleria",
+    "comune": "Novellara",
+    "latInizio": 44.858441,
+    "lonInizio": 10.703969,
+    "latFine": 44.853535,
+     "lonFine": 10.737219,
+    "polyline": [[44.858441,10.703969],[44.858796,10.706741],[44.858574,10.707971],[44.856757,10.712891],[44.856180,10.713746],[44.855146,10.718645],[44.854969,10.723440],[44.855486,10.725983],[44.855619,10.728672],[44.854584,10.732654],[44.853535,10.737219]]
+  }
+,
+{
+    "nome": "Viale 1° Maggio",
+    "tipo": "Via",
+    "comune": "Reggio nell'Emilia",
+    "latInizio": 44.688744,
+    "lonInizio": 10.658867,
+    "latFine": 44.686395,
+     "lonFine": 10.657215,
+    "polyline": [[44.688744,10.658867],[44.686395,10.657215]]
+  }
+,
+{
+    "nome": "Via V. Marchi",
+    "tipo": "Via",
+    "comune": "Reggio nell'Emilia",
+    "latInizio": 44.683237,
+    "lonInizio": 10.657554,
+    "latFine": 44.688630,
+     "lonFine": 10.658889,
+    "polyline": [[44.683237,10.657554],[44.688498,10.659272],[44.688630,10.658889]]
+  }
+,
+{
+    "nome": "Via A. Paterlini",
+    "tipo": "Via",
+    "comune": "Reggio nell'Emilia",
+    "latInizio": 44.705322,
+    "lonInizio": 10.633720,
+    "latFine": 44.709359,
+     "lonFine": 10.636081,
+    "polyline": [[44.705322,10.633720],[44.707119,10.634147],[44.707167,10.634208],[44.707747,10.635079],[44.709359,10.636081]]
+  }
+,
+{
+    "nome": "Via G. Puccini",
+    "tipo": "Via",
+    "comune": "Reggio nell'Emilia",
+    "latInizio": 44.704156,
+    "lonInizio": 10.614693,
+    "latFine": 44.698566,
+     "lonFine": 10.611451,
+    "polyline": [[44.704156,10.614693],[44.702242,10.613586],[44.700592,10.612664],[44.698566,10.611451]]
+  }
+,
+{
+    "nome": "Via C. Calvi di Coenzo",
+    "tipo": "Via",
+    "comune": "Reggio nell'Emilia",
+    "latInizio": 44.739906,
+    "lonInizio": 10.649843,
+    "latFine": 44.738622,
+     "lonFine": 10.654129,
+    "polyline": [[44.739906,10.649843],[44.738622,10.654129]]
+  }
+,
+{
+    "nome": "Via Giambellino",
+    "tipo": "Via",
+    "comune": "Reggio nell'Emilia",
+    "latInizio": 44.707621,
+    "lonInizio": 10.605076,
+    "latFine": 44.709082,
+     "lonFine": 10.607204,
+    "polyline": [[44.707621,10.605076],[44.707800,10.605042],[44.708666,10.605473],[44.708861,10.605662],[44.709778,10.606118],[44.709573,10.606964],[44.709082,10.607204]]
+  }
+,
+{
+    "nome": "Via Secchi",
+    "tipo": "Via",
+    "comune": "Reggio nell'Emilia",
+    "latInizio": 44.699860,
+    "lonInizio": 10.634570,
+    "latFine": 44.700695,
+     "lonFine": 10.632126,
+    "polyline": [[44.699860,10.634570],[44.700695,10.632126]]
+  }
+,
+{
+    "nome": "Piazza Vallisneri",
+    "tipo": "Piazza",
+    "comune": "Reggio nell'Emilia",
+    "lat": 44.702197,
+    "lon": 10.633364
+  }
+
+
+
+,
+{
+    "nome": "Via Adua",
+    "tipo": "Via",
+    "comune": "Reggio nell'Emilia",
+    "latInizio": 44.707578,
+    "lonInizio": 10.639370,
+    "latFine": 44.701871,
+     "lonFine": 10.658810,
+    "polyline": [[44.707578,10.639370],[44.706771,10.642257],[44.706230,10.643915],[44.705815,10.645582],[44.705269,10.647290],[44.704045,10.651436],[44.702867,10.655471],[44.701871,10.658810]]
+  }
 ]

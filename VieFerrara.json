@@ -31,4 +31,125 @@
 
 
 
+,
+{
+    "nome": "Frazione di Zerbinate",
+    "tipo": "Frazione",
+    "comune": "Bondeno",
+    "lat": 44.953113,
+    "lon": 11.384891
+  }
+
+
+
+,
+{
+    "nome": "via Coppi",
+    "tipo": "Via",
+    "comune": "Terre del Reno",
+    "latInizio": 44.769455,
+    "lonInizio": 11.340960,
+    "latFine": 44.765622,
+     "lonFine": 11.338800,
+    "polyline": [[44.769455,11.340960],[44.765622,11.338800]]
+  }
+,
+{
+    "nome": "via Fausto Coppi",
+    "tipo": "Via",
+    "comune": "Terre del Reno",
+    "latInizio": 44.769455,
+    "lonInizio": 11.340960,
+    "latFine": 44.765622,
+     "lonFine": 11.338800,
+    "polyline": [[44.769455,11.340960],[44.765622,11.338800]]
+  }
+,
+{
+    "nome": "via Fausto Coppi",
+    "tipo": "Via",
+    "comune": "Dosso",
+    "latInizio": 44.769455,
+    "lonInizio": 11.340960,
+    "latFine": 44.765622,
+     "lonFine": 11.338800,
+    "polyline": [[44.769455,11.340960],[44.765622,11.338800]]
+  }
+,
+{
+    "nome": "Località Formignana",
+    "tipo": "Frazione",
+    "comune": "Tresignana",
+    "lat": 44.842692,
+    "lon": 11.859047
+  }
+
+
+
+,
+{
+    "nome": "Via Provenzali",
+    "tipo": "Via",
+    "comune": "Cento",
+    "latInizio": 44.726695,
+    "lonInizio": 11.291891,
+    "latFine": 44.727493,
+     "lonFine": 11.290410,
+    "polyline": [[44.726695,11.291891],[44.727493,11.290410]]
+  }
+,
+{
+    "nome": "Via Marcello Provenzali",
+    "tipo": "Via",
+    "comune": "Cento",
+    "latInizio": 44.726695,
+    "lonInizio": 11.291891,
+    "latFine": 44.727493,
+     "lonFine": 11.290410,
+    "polyline": [[44.726695,11.291891],[44.727493,11.290410]]
+  }
+,
+{
+    "nome": "Piazza del Guercino",
+    "tipo": "Piazza",
+    "comune": "Cento",
+    "lat": 44.727327,
+    "lon": 11.290332
+  }
+
+
+
+,
+{
+    "nome": "via Borgatti",
+    "tipo": "Via",
+    "comune": "Bondeno",
+    "latInizio": 44.878468,
+    "lonInizio": 11.420606,
+    "latFine": 44.884570,
+     "lonFine": 11.426271,
+    "polyline": [[44.878468,11.420606],[44.884570,11.426271]]
+  }
+,
+{
+    "nome": "Via Tenente Mariano Borgatti",
+    "tipo": "Via",
+    "comune": "Bondeno",
+    "latInizio": 44.878468,
+    "lonInizio": 11.420606,
+    "latFine": 44.884570,
+     "lonFine": 11.426271,
+    "polyline": [[44.878468,11.420606],[44.884570,11.426271]]
+  }
+,
+{
+    "nome": "via Fermi",
+    "tipo": "Via",
+    "comune": "Bondeno",
+    "latInizio": 44.883600,
+    "lonInizio": 11.428978,
+    "latFine": 44.878360,
+     "lonFine": 11.428403,
+    "polyline": [[44.883600,11.428978],[44.880835,11.427913],[44.878360,11.428403]]
+  }
 ]

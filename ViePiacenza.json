@@ -1,4 +1,4 @@
-[
+﻿[
   {	
     "nome": "Nome1",	
     "tipo": "tipo1",	
@@ -8,5 +8,115 @@
     "latFine": 43.05555555553,	
      "lonFine": 89876555555553,	
     "polyline": [[43.050,21.10],[43.0111,21.1999991],[43.02,21.12],[43.05555555553,21.189876555555553]]	
+  }
+,
+{
+    "nome": "via Morigi",
+    "tipo": "Via",
+    "comune": "Piacenza",
+    "latInizio": 45.044570,
+    "lonInizio":  9.674169,
+    "latFine": 45.048458,
+     "lonFine":  9.678911,
+    "polyline": [[45.044570, 9.674169],[45.046692, 9.675950],[45.048458, 9.678911]]
+  }
+,
+{
+    "nome": "strada Raffalda",
+    "tipo": "Strada",
+    "comune": "Piacenza",
+    "latInizio": 45.046709,
+    "lonInizio":  9.669069,
+    "latFine": 45.049931,
+     "lonFine":  9.678015,
+    "polyline": [[45.046709, 9.669069],[45.048301, 9.673466],[45.049218, 9.676421],[45.049931, 9.678015]]
+  }
+,
+{
+    "nome": "via Castagna",
+    "tipo": "Via",
+    "comune": "Piacenza",
+    "latInizio": 45.044167,
+    "lonInizio":  9.676748,
+    "latFine": 45.045034,
+     "lonFine":  9.674601,
+    "polyline": [[45.044167, 9.676748],[45.045034, 9.674601]]
+  }
+,
+{
+    "nome": "via Campesio",
+    "tipo": "Via",
+    "comune": "Piacenza",
+    "latInizio": 45.043138,
+    "lonInizio":  9.677500,
+    "latFine": 45.047450,
+     "lonFine":  9.683410,
+    "polyline": [[45.043138, 9.677500],[45.043816, 9.678204],[45.046346, 9.681790],[45.047450, 9.683410]]
+  }
+,
+{
+    "nome": "via Crollalanza",
+    "tipo": "Via",
+    "comune": "Piacenza",
+    "latInizio": 45.042671,
+    "lonInizio":  9.678239,
+    "latFine": 45.041532,
+     "lonFine":  9.677263,
+    "polyline": [[45.042671, 9.678239],[45.041532, 9.677263]]
+  }
+,
+{
+    "nome": "V. Roma",
+    "tipo": "Via",
+    "comune": "Caorso",
+    "latInizio": 45.049188,
+    "lonInizio":  9.871257,
+    "latFine": 45.049044,
+     "lonFine":  9.877335,
+    "polyline": [[45.049188, 9.871257],[45.049199, 9.871434],[45.049059, 9.871965],[45.048881, 9.872410],[45.048832, 9.872904],[45.048832, 9.874679],[45.049044, 9.877335]]
+  }
+,
+{
+    "nome": "Controviale",
+    "tipo": "Via",
+    "comune": "Caorso",
+    "lat": 45.049352,
+    "lon":  9.871790
+  }
+
+
+
+,
+{
+    "nome": "V. Martiri della Libertà",
+    "tipo": "Via",
+    "comune": "Caorso",
+    "latInizio": 45.048784,
+    "lonInizio":  9.873470,
+    "latFine": 45.048106,
+     "lonFine":  9.873551,
+    "polyline": [[45.048784, 9.873470],[45.048106, 9.873551]]
+  }
+,
+{
+    "nome": "V. Marconi",
+    "tipo": "Via",
+    "comune": "Caorso",
+    "latInizio": 45.049434,
+    "lonInizio":  9.874523,
+    "latFine": 45.048859,
+     "lonFine":  9.874521,
+    "polyline": [[45.049434, 9.874523],[45.048859, 9.874521]]
+  }
+,
+{
+    "nome": "V. Da Saliceto",
+    "tipo": "Via",
+    "comune": "Caorso",
+    "latInizio": 44.920549,
+    "lonInizio":  9.903006,
+    "latFine": 44.921241,
+     "lonFine":  9.900135,
+    "polyline": [[44.920549, 9.903006],[44.920795, 9.901734],[44.920498, 9.901596],[44.920611, 9.901662],[44.920577, 9.901856],[44.920602, 9.901910],[44.920756, 9.901967],[44.921123, 9.900324],[44.921241, 9.900135]]
   }
 ]
