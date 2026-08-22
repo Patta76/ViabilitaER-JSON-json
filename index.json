@@ -4412,5 +4412,237 @@
     "nome": "Sp 15 Via del Mare",
     "network": "",
     "lunghezza_km":50.8
-  }
+  },
+{
+"id": 565,
+"file": "565.json",
+"tipo": "SP",
+"numero": "10",
+"ref": "SP10",
+"provincia": "FE",
+"nome": "Sp 10",
+"network": "",
+"lunghezza_km":19.5
+},
+{
+"id": 566,
+"file": "566.json",
+"tipo": "SP",
+"numero": "8",
+"ref": "SP8",
+"provincia": "FE",
+"nome": "Sp 8",
+"network": "",
+"lunghezza_km":6,7
+},
+{
+"id": 566,
+"file": "566.json",
+"tipo": "SP",
+"numero": "5",
+"ref": "SP5",
+"provincia": "FE",
+"nome": "SP 5 Dazio di Guarda",
+"network": "",
+"lunghezza_km":7,3
+},
+{
+"id": 567,
+"file": "567.json",
+"tipo": "SP",
+"numero": "8",
+"ref": "SP8",
+"provincia": "FC",
+"nome": "SP 8 81 Trebbio-San Savino",
+"network": "",
+"lunghezza_km":7,9
+},
+{
+"id": 568,
+"file": "568.json",
+"tipo": "SP",
+"numero": "107",
+"ref": "SP107",
+"provincia": "FC",
+"nome": "SP 107",
+"network": "",
+"lunghezza_km":3
+},
+{
+"id": 569,
+"file": "569.json",
+"tipo": "SP",
+"numero": "13",
+"ref": "SP13",
+"provincia": "RN",
+"nome": "SP 13-Bis",
+"network": "",
+"lunghezza_km":4,9
+},
+{
+"id": 570,
+"file": "570.json",
+"tipo": "SP",
+"numero": "14",
+"ref": "SP14",
+"provincia": "RN",
+"nome": "SP 14",
+"network": "",
+"lunghezza_km":11,1
+},
+{
+"id": 571,
+"file": "571.json",
+"tipo": "SP",
+"numero": "8",
+"ref": "SP8",
+"provincia": "RN",
+"nome": "SP 8 Santagatese",
+"network": "",
+"lunghezza_km":11,1
+},
+{
+"id": 572,
+"file": "572.json",
+"tipo": "SP",
+"numero": "58",
+"ref": "SP58",
+"provincia": "RN",
+"nome": "SP 58 Tavullia",
+"network": "",
+"lunghezza_km":2,8
+},
+{
+"id": 573,
+"file": "573.json",
+"tipo": "SP",
+"numero": "27",
+"ref": "SP27",
+"provincia": "RN",
+"nome": "SP 27 Pennabillese",
+"network": "",
+"lunghezza_km":3,4
+},
+{
+"id": 574,
+"file": "574.json",
+"tipo": "SP",
+"numero": "44",
+"ref": "SP44",
+"provincia": "RN",
+"nome": "SP 44 Ponte Rosso",
+"network": "",
+"lunghezza_km":7,8
+},
+{
+"id": 573,
+"file": "573.json",
+"tipo": "SP",
+"numero": "49",
+"ref": "SP49",
+"provincia": "RN",
+"nome": "SP49 Trasversale Marecchia",
+"network": "",
+"lunghezza_km":16,7
+},
+{
+"id": 574,
+"file": "574.json",
+"tipo": "SP",
+"numero": "72",
+"ref": "SP72",
+"provincia": "FE",
+"nome": "SP 72 Argine Agosta",
+"network": "",
+"lunghezza_km":11
+},
+{
+"id": 575,
+"file": "575.json",
+"tipo": "SP",
+"numero": "38",
+"ref": "SP38",
+"provincia": "FE",
+"nome": "Sp 38 Cardinala",
+"network": "",
+"lunghezza_km":6,6
+},
+{
+"id": 576,
+"file": "576.json",
+"tipo": "SP",
+"numero": "78",
+"ref": "SP78",
+"provincia": "FE",
+"nome": "Sp 78 Istria-Fiume",
+"network": "",
+"lunghezza_km":5,9
+},
+{
+"id": 577,
+"file": "577.json",
+"tipo": "SP",
+"numero": "65",
+"ref": "SP65",
+"provincia": "FE",
+"nome": "Sp 65 Ferrara-Consandolo",
+"network": "",
+"lunghezza_km":25
+},
+{
+"id": 578,
+"file": "578.json",
+"tipo": "SP",
+"numero": "79",
+"ref": "SP79",
+"provincia": "FE",
+"nome": "Sp 79 Mondonuovo",
+"network": "",
+"lunghezza_km":17,4
+},
+{
+"id": 579,
+"file": "579.json",
+"tipo": "SP",
+"numero": "17",
+"ref": "SP17",
+"provincia": "FE",
+"nome": "SP 17 Jolanda di Savoia-Berra",
+"network": "",
+"lunghezza_km":6,3
+},
+{
+"id": 580,
+"file": "580.json",
+"tipo": "SP",
+"numero": "24",
+"ref": "SP24",
+"provincia": "FE",
+"nome": "SP 24 Ro F.-Cologna",
+"network": "",
+"lunghezza_km":12,5
+},
+{
+"id": 581,
+"file": "581.json",
+"tipo": "SP",
+"numero": "56",
+"ref": "SP56",
+"provincia": "FE",
+"nome": "SP56 Le Contane-Serravalle",
+"network": "",
+"lunghezza_km":4,2
+},
+{
+"id": 582,
+"file": "582.json",
+"tipo": "SP",
+"numero": "19",
+"ref": "SP19",
+"provincia": "FE",
+"nome": "SP 19",
+"network": "",
+"lunghezza_km":23,1
+}
 ]
+
