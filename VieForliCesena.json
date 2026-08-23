@@ -86,4 +86,37 @@
 
 
 
+,
+{
+    "nome": "S.S. 9 Via Emilia",
+    "tipo": "Via",
+    "comune": "Gatteo",
+    "lat": 44.092404,
+    "lon": 12.390828
+  }
+
+
+
+,
+{
+    "nome": "Via P. Tosi",
+    "tipo": "Errore Via",
+    "comune": "Gatteo",
+    "lat": 44.109616,
+    "lon": 12.385977
+  }
+
+
+
+,
+{
+    "nome": "Via Tolemaide",
+    "tipo": "Errore Via",
+    "comune": "Gatteo",
+    "lat": 44.109616,
+    "lon": 12.385977
+  }
+
+
+
 ]

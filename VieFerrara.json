@@ -152,4 +152,70 @@
      "lonFine": 11.428403,
     "polyline": [[44.883600,11.428978],[44.880835,11.427913],[44.878360,11.428403]]
   }
+,
+{
+    "nome": "Tutte le Strade Provinciali del Basso Ferrarese",
+    "tipo": "Sede provincia",
+    "comune": "",
+    "lat": 44.837655,
+    "lon": 11.611590
+  }
+
+
+
+,
+{
+    "nome": "Tutte le Strade Provinciali",
+    "tipo": "Sede provincia",
+    "comune": "",
+    "lat": 44.837916,
+    "lon": 11.611992
+  }
+
+
+
+,
+{
+    "nome": "Tutte le strade della Provincia di Ferrara",
+    "tipo": "Sede provincia",
+    "comune": "",
+    "lat": 44.838072,
+    "lon": 11.612056
+  }
+
+
+
+,
+{
+    "nome": "Tutte le SS.PP. Bis.",
+    "tipo": "Sede provincia",
+    "comune": "",
+    "lat": 44.837875,
+    "lon": 11.612003
+  }
+
+
+
+,
+{
+    "nome": "Tutte SS.PP. Alto Ferrarese",
+    "tipo": "Sede provincia",
+    "comune": "",
+    "lat": 44.838056,
+    "lon": 11.611912
+  }
+
+
+
+,
+{
+    "nome": "Tutte le SS.PP. Basso Ferrarese",
+    "tipo": "Sede provincia",
+    "comune": "",
+    "lat": 44.837897,
+    "lon": 11.611852
+  }
+
+
+
 ]
