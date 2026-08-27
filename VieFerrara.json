@@ -17,9 +17,6 @@
     "lat": 44.897556,
     "lon": 11.405535
   }
-
-
-
 ,
 {
     "nome": "Strade comunali, vicinali di uso pubblico, marciapiedi, parcheggi pubblici o ad uso pubblico",
@@ -28,9 +25,6 @@
     "lat": 44.765637,
     "lon": 11.484708
   }
-
-
-
 ,
 {
     "nome": "Frazione di Zerbinate",
@@ -39,9 +33,6 @@
     "lat": 44.953113,
     "lon": 11.384891
   }
-
-
-
 ,
 {
     "nome": "via Coppi",
@@ -83,9 +74,6 @@
     "lat": 44.842692,
     "lon": 11.859047
   }
-
-
-
 ,
 {
     "nome": "Via Provenzali",
@@ -116,9 +104,6 @@
     "lat": 44.727327,
     "lon": 11.290332
   }
-
-
-
 ,
 {
     "nome": "via Borgatti",
@@ -160,9 +145,6 @@
     "lat": 44.837655,
     "lon": 11.611590
   }
-
-
-
 ,
 {
     "nome": "Tutte le Strade Provinciali",
@@ -171,9 +153,6 @@
     "lat": 44.837916,
     "lon": 11.611992
   }
-
-
-
 ,
 {
     "nome": "Tutte le strade della Provincia di Ferrara",
@@ -182,9 +161,6 @@
     "lat": 44.838072,
     "lon": 11.612056
   }
-
-
-
 ,
 {
     "nome": "Tutte le SS.PP. Bis.",
@@ -193,9 +169,6 @@
     "lat": 44.837875,
     "lon": 11.612003
   }
-
-
-
 ,
 {
     "nome": "Tutte SS.PP. Alto Ferrarese",
@@ -204,9 +177,6 @@
     "lat": 44.838056,
     "lon": 11.611912
   }
-
-
-
 ,
 {
     "nome": "Tutte le SS.PP. Basso Ferrarese",
@@ -215,7 +185,91 @@
     "lat": 44.837897,
     "lon": 11.611852
   }
-
-
-
+,
+{
+    "nome": "Via Roma",
+    "tipo": "Via",
+    "comune": "Tresignana",
+    "latInizio": 44.841350,
+    "lonInizio": 11.860998,
+    "latFine": 44.842935,
+     "lonFine": 11.859906,
+    "polyline": [[44.841350,11.860998],[44.842935,11.859906]]
+  }
+,
+{
+    "nome": "Piazza Unità",
+    "tipo": "Piazza",
+    "comune": "Tresignana",
+    "lat": 44.842646,
+    "lon": 11.860255
+  }
+,
+{
+    "nome": "Via Vittoria",
+    "tipo": "Via",
+    "comune": "Tresignana",
+    "latInizio": 44.842031,
+    "lonInizio": 11.857366,
+    "latFine": 44.842952,
+     "lonFine": 11.859876,
+    "polyline": [[44.842031,11.857366],[44.842952,11.859876]]
+  }
+,
+{
+    "nome": "Via Stefano Mongini",
+    "tipo": "Via",
+    "comune": "Riva del Po",
+    "latInizio": 44.968448,
+    "lonInizio": 12.044284,
+    "latFine": 44.968332,
+     "lonFine": 12.036773,
+    "polyline": [[44.968448,12.044284],[44.967554,12.043876],[44.968015,12.038801],[44.968100,12.037964],[44.968059,12.037785],[44.967964,12.037594],[44.968080,12.036749],[44.968332,12.036773]]
+  }
+,
+{
+    "nome": "Via Don Giovanni Minzoni",
+    "tipo": "Via",
+    "comune": "Riva del Po",
+    "latInizio": 44.967555,
+    "lonInizio": 12.043862,
+    "latFine": 44.965534,
+     "lonFine": 12.043532,
+    "polyline": [[44.967555,12.043862],[44.967124,12.043768],[44.967139,12.043347],[44.967139,12.043347],[44.967139,12.043347],[44.967124,12.043768],[44.965534,12.043532],[44.965469,12.044355],[44.965414,12.044739],[44.965542,12.044803],[44.965414,12.044739],[44.965469,12.044355],[44.965534,12.043532]]
+  }
+,
+{
+    "nome": "Piazza Giuseppe Mazzini",
+    "tipo": "Piazza",
+    "comune": "Riva del Po",
+    "lat": 44.967386,
+    "lon": 12.044831
+  }
+,
+{
+    "nome": "via Statale",
+    "tipo": "Via",
+    "comune": "Terre del Reno",
+    "latInizio": 44.779386,
+    "lonInizio": 11.338679,
+    "latFine": 44.774169,
+     "lonFine": 11.349527,
+    "polyline": [[44.779386,11.338679],[44.777138,11.343258],[44.778201,11.344263],[44.777138,11.343258],[44.774268,11.349323],[44.774169,11.349527]]
+  }
+,
+{
+    "nome": "Piazza del Popolo",
+    "tipo": "Piazza",
+    "comune": "Poggio Renatico",
+    "lat": 44.765685,
+    "lon": 11.484474
+  }
+,
+{
+    "nome": "Piazza Ariostea",
+    "tipo": "Piazza",
+    "comune": "Ferrara",
+    "lat": 44.841372,
+    "lon": 11.626869
+  }
 ]

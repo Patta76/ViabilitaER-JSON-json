@@ -4688,4 +4688,16 @@
 "network": "",
 "lunghezza_km":7.9
 }
+{
+"id": 587,
+"file": "587.json",
+"tipo": "SP",
+"numero": "120",
+"ref": "SP120",
+"provincia": "RN",
+"nome": "SP 120",
+"network": "",
+"lunghezza_km":2,6
+}
 ]
+

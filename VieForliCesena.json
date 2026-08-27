@@ -17,9 +17,6 @@
     "lat": 44.166935,
     "lon": 12.440748
   }
-
-
-
 ,
 {
     "nome": "Ponte di Giulio Cesare",
@@ -28,9 +25,6 @@
     "lat": 44.166935,
     "lon": 12.440748
   }
-
-
-
 ,
 {
     "nome": "Parcheggi laterali adiacenti al perimetro di Piazza Romagna Mia",
@@ -39,9 +33,6 @@
     "lat": 44.173190,
     "lon": 12.436179
   }
-
-
-
 ,
 {
     "nome": "Parcheggio Maggiolino - Via Gramsci/Via Ravenna",
@@ -50,9 +41,6 @@
     "lat": 44.168939,
     "lon": 12.440182
   }
-
-
-
 ,
 {
     "nome": "Parcheggio Maggiolino",
@@ -61,9 +49,6 @@
     "lat": 44.168939,
     "lon": 12.440182
   }
-
-
-
 ,
 {
     "nome": "Viale Europa - intersezione Rotatoria Schuman",
@@ -72,9 +57,6 @@
     "lat": 44.167106,
     "lon": 12.435130
   }
-
-
-
 ,
 {
     "nome": "Parcheggio pubblico temporaneo - area verde adiacente alla discoteca Melania",
@@ -83,9 +65,6 @@
     "lat": 44.167363,
     "lon": 12.435277
   }
-
-
-
 ,
 {
     "nome": "S.S. 9 Via Emilia",
@@ -94,9 +73,6 @@
     "lat": 44.092404,
     "lon": 12.390828
   }
-
-
-
 ,
 {
     "nome": "Via P. Tosi",
@@ -105,9 +81,6 @@
     "lat": 44.109616,
     "lon": 12.385977
   }
-
-
-
 ,
 {
     "nome": "Via Tolemaide",
@@ -116,7 +89,50 @@
     "lat": 44.109616,
     "lon": 12.385977
   }
-
-
-
+,
+{
+    "nome": "via Gramsci",
+    "tipo": "Errore Via",
+    "comune": "Gatteo",
+    "lat": 44.109638,
+    "lon": 12.385985
+  }
+,
+{
+    "nome": "Area di servizio Rubicone Ovest",
+    "tipo": "Area servizio",
+    "comune": "Gatteo",
+    "lat": 44.115987,
+    "lon": 12.407972
+  }
+,
+{
+    "nome": "Area di servizio Rubicone Est",
+    "tipo": "Area servizio",
+    "comune": "Gatteo",
+    "lat": 44.116966,
+    "lon": 12.408436
+  }
+,
+{
+    "nome": "via Gramsci",
+    "tipo": "Area servizio",
+    "comune": "Gatteo a Mare",
+    "latInizio": 44.172666,
+    "lonInizio": 12.435087,
+    "latFine": 44.169164,
+     "lonFine": 12.440564,
+    "polyline": [[44.172666,12.435087],[44.171784,12.436402],[44.170992,12.437721],[44.169584,12.439856],[44.169218,12.440420],[44.169164,12.440564]]
+  }
+,
+{
+    "nome": "Via Belvedere",
+    "tipo": "Area servizio",
+    "comune": "Roncofreddo",
+    "latInizio": 44.045197,
+    "lonInizio": 12.322755,
+    "latFine": 44.047565,
+     "lonFine": 12.343719,
+    "polyline": [[44.045197,12.322755],[44.044411,12.326124],[44.044364,12.326789],[44.044079,12.328034],[44.043693,12.328688],[44.042213,12.333827],[44.042375,12.335801],[44.042467,12.336799],[44.042729,12.338441],[44.043161,12.339492],[44.043331,12.340093],[44.043801,12.340501],[44.044503,12.340018],[44.044773,12.340168],[44.045421,12.342121],[44.045914,12.343215],[44.046377,12.343612],[44.046824,12.343408],[44.047565,12.343719]]
+  }
 ]
