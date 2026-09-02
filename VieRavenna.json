@@ -17,9 +17,6 @@
     "lat": 44.273321,
     "lon": 12.352700
   }
-
-
-
 ,
 {
     "nome": "Via T. Rasponi",
@@ -63,5 +60,84 @@
     "latFine": 44.284758,
      "lonFine": 12.350556,
     "polyline": [[44.284313,12.347005],[44.284524,12.348641],[44.284758,12.350556]]
+  }
+,
+{
+    "nome": "Via Roma",
+    "tipo": "Via",
+    "comune": "Sant'Agata sul Santerno",
+    "latInizio": 44.440819,
+    "lonInizio": 11.860239,
+    "latFine": 44.441830,
+     "lonFine": 11.861114,
+    "polyline": [[44.440819,11.860239],[44.441830,11.861114]]
+  }
+,
+{
+    "nome": "Via IV Novembre",
+    "tipo": "Via",
+    "comune": "Sant'Agata sul Santerno",
+    "latInizio": 44.441218,
+    "lonInizio": 11.859305,
+    "latFine": 44.442339,
+     "lonFine": 11.860288,
+    "polyline": [[44.441218,11.859305],[44.442339,11.860288]]
+  }
+,
+{
+    "nome": "Largo Caduti di Nassiriya",
+    "tipo": "Largo",
+    "comune": "Sant'Agata sul Santerno",
+    "lat": 44.442342,
+    "lon": 11.859939
+  }
+,
+{
+    "nome": "Piazza Umberto I",
+    "tipo": "Piazza",
+    "comune": "Sant'Agata sul Santerno",
+    "lat": 44.442038,
+    "lon": 11.861340
+  }
+,
+{
+    "nome": "Piazza Ercole I duca D’Este",
+    "tipo": "Piazza",
+    "comune": "Sant'Agata sul Santerno",
+    "lat": 44.442008,
+    "lon": 11.861907
+  }
+,
+{
+    "nome": "Largo Margherita di Savoia",
+    "tipo": "Largo",
+    "comune": "Sant'Agata sul Santerno",
+    "latInizio": 44.442210,
+    "lonInizio": 11.861295,
+    "latFine": 44.442462,
+     "lonFine": 11.860899,
+    "polyline": [[44.442210,11.861295],[44.442462,11.860899]]
+  }
+,
+{
+    "nome": "Via Vittorio Emanuele II",
+    "tipo": "Via",
+    "comune": "Sant'Agata sul Santerno",
+    "latInizio": 44.442354,
+    "lonInizio": 11.860350,
+    "latFine": 44.441899,
+     "lonFine": 11.861035,
+    "polyline": [[44.442354,11.860350],[44.441899,11.861035]]
+  }
+,
+{
+    "nome": "Via Mazzini",
+    "tipo": "Via",
+    "comune": "Sant'Agata sul Santerno",
+    "latInizio": 44.441812,
+    "lonInizio": 11.861375,
+    "latFine": 44.440937,
+     "lonFine": 11.863343,
+    "polyline": [[44.441812,11.861375],[44.440937,11.863343]]
   }
 ]

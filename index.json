@@ -4698,6 +4698,27 @@
 "nome": "SP 120",
 "network": "",
 "lunghezza_km":2.6
+},
+{
+"id": 589,
+"file": "589.json",
+"tipo": "SP",
+"numero": "37",
+"ref": "SP37",
+"provincia": "FE",
+"nome": "SP 37",
+"network": "",
+"lunghezza_km":6.7
+},
+{
+"id": 590,
+"file": "590.json",
+"tipo": "SP",
+"numero": "48",
+"ref": "SP48",
+"provincia": "FE",
+"nome": "SP 48",
+"network": "",
+"lunghezza_km":13.5
 }
 ]
-
