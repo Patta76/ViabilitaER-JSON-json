@@ -4720,5 +4720,16 @@
 "nome": "SP 48",
 "network": "",
 "lunghezza_km":13.5
-}
+},
+{
+    "id": 591,
+    "file": "591.json",
+    "tipo": "SP",
+    "numero": "69",
+    "ref": "SP69",
+    "provincia": "FE",
+    "nome": "SP 69",
+    "network": "",
+    "lunghezza_km":36
+  },
 ]
