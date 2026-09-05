@@ -4744,4 +4744,17 @@
 "network": "",
 "lunghezza_km":22
 }
+{
+"id": 596,
+"file": "596.json",
+"tipo": "SP",
+"numero": "50",
+"ref": "SP50",
+"provincia": "PC",
+"nome": "Strada provinciale 50",
+"network": "",
+"lunghezza_km":24,5
+}
 ]
+,
+

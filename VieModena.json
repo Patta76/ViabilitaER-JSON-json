@@ -448,4 +448,15 @@
      "lonFine": 11.302074,
     "polyline": [[44.834306,11.301371],[44.833937,11.302074]]
   }
+,
+{
+    "nome": "Strada Provinciale 569 - Ponte sul Rio Pissarotta",
+    "tipo": "ponte",
+    "comune": "Modena",
+    "lat": 44.515712,
+    "lon": 10.990683
+  }
+
+
+
 ]
