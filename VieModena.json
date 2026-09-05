@@ -349,4 +349,103 @@
      "lonFine": 10.932210,
     "polyline": [[44.597751,10.927567],[44.597557,10.928371],[44.596779,10.929600],[44.593472,10.930860],[44.586719,10.932210]]
   }
+,
+{
+    "nome": "via Battisti",
+    "tipo": "via",
+    "comune": "Finale Emilia",
+    "latInizio": 44.832174,
+    "lonInizio": 11.296061,
+    "latFine": 44.832684,
+     "lonFine": 11.295509,
+    "polyline": [[44.832174,11.296061],[44.832684,11.295509]]
+  }
+,
+{
+    "nome": "via Trento Trieste",
+    "tipo": "via",
+    "comune": "Finale Emilia",
+    "latInizio": 44.837256,
+    "lonInizio": 11.301134,
+    "latFine": 44.832398,
+     "lonFine": 11.294704,
+    "polyline": [[44.837256,11.301134],[44.834373,11.298444],[44.834316,11.298353],[44.832398,11.294704]]
+  }
+,
+{
+    "nome": "piazza Baccarini",
+    "tipo": "Piazza",
+    "comune": "Finale Emilia",
+    "lat": 44.832159,
+    "lon": 11.294446
+  }
+
+
+
+,
+{
+    "nome": "via Martiri della Liberazione",
+    "tipo": "Via",
+    "comune": "Finale Emilia",
+    "latInizio": 44.831854,
+    "lonInizio": 11.293635,
+    "latFine": 44.832041,
+     "lonFine": 11.294103,
+    "polyline": [[44.831854,11.293635],[44.832041,11.294103]]
+  }
+,
+{
+    "nome": "via Sauro",
+    "tipo": "Via",
+    "comune": "Finale Emilia",
+    "latInizio": 44.831754,
+    "lonInizio": 11.293610,
+    "latFine": 44.830974,
+     "lonFine": 11.294398,
+    "polyline": [[44.831754,11.293610],[44.830974,11.294398]]
+  }
+,
+{
+    "nome": "piazza Garibaldi",
+    "tipo": "Piazza",
+    "comune": "Finale Emilia",
+    "lat": 44.831242,
+    "lon": 11.295615
+  }
+
+
+
+,
+{
+    "nome": "corso Matteotti",
+    "tipo": "Corso",
+    "comune": "Finale Emilia",
+    "latInizio": 44.831732,
+    "lonInizio": 11.296588,
+    "latFine": 44.833844,
+     "lonFine": 11.300517,
+    "polyline": [[44.831732,11.296588],[44.833844,11.300517]]
+  }
+,
+{
+    "nome": "via Matteotti",
+    "tipo": "Via",
+    "comune": "Finale Emilia",
+    "latInizio": 44.831732,
+    "lonInizio": 11.296588,
+    "latFine": 44.833844,
+     "lonFine": 11.300517,
+    "polyline": [[44.831732,11.296588],[44.833844,11.300517]]
+  }
+,
+{
+    "nome": "piazzale Don Bosco",
+    "tipo": "Piazza",
+    "comune": "Finale Emilia",
+    "latInizio": 44.834306,
+    "lonInizio": 11.301371,
+    "latFine": 44.833937,
+     "lonFine": 11.302074,
+    "polyline": [[44.834306,11.301371],[44.833937,11.302074]]
+  }
 ]

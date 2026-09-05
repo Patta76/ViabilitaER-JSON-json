@@ -4732,4 +4732,16 @@
     "network": "",
     "lunghezza_km":36
   }
+,
+{
+"id": 595,
+"file": "595.json",
+"tipo": "SP",
+"numero": "255",
+"ref": "SP255",
+"provincia": "MO",
+"nome": "Strada Provinciale 255 Nonantolana",
+"network": "",
+"lunghezza_km":22
+}
 ]

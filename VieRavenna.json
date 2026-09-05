@@ -140,4 +140,45 @@
      "lonFine": 11.863343,
     "polyline": [[44.441812,11.861375],[44.440937,11.863343]]
   }
+,
+{
+    "nome": "via Risorgimento - tratto da piazza Garibaldi a via Pisacane",
+    "tipo": "Tratto",
+    "comune": "Lugo",
+    "latInizio": 44.420212,
+    "lonInizio": 11.914466,
+    "latFine": 44.420953,
+     "lonFine": 11.912597,
+    "polyline": [[44.420212,11.914466],[44.420953,11.912597]]
+  }
+,
+{
+    "nome": "via Risorgimento - tratto da via Pisacane a via Giaccari",
+    "tipo": "Tratto",
+    "comune": "Lugo",
+    "latInizio": 44.420204,
+    "lonInizio": 11.914468,
+    "latFine": 44.419491,
+     "lonFine": 11.916407,
+    "polyline": [[44.420204,11.914468],[44.419491,11.916407]]
+  }
+,
+{
+    "nome": "via Pisacane - chiusura al traffico (tutto il tratto)",
+    "tipo": "Tratto",
+    "comune": "Lugo",
+    "latInizio": 44.420213,
+    "lonInizio": 11.914468,
+    "latFine": 44.419643,
+     "lonFine": 11.913969,
+    "polyline": [[44.420213,11.914468],[44.419643,11.913969]]
+  }
+,
+{
+    "nome": "via Pisacane - percorribile con obbligo di svolta a sinistra su via Risorgimento",
+    "tipo": "Svolta",
+    "comune": "Lugo",
+    "lat": 44.420210,
+    "lon": 11.914468
+  }
 ]
