@@ -4754,5 +4754,16 @@
 "nome": "Strada provinciale 50",
 "network": "",
 "lunghezza_km":24.5
+},
+{
+"id": 597,
+"file": "597.json",
+"tipo": "SP",
+"numero": "6",
+"ref": "SP6",
+"provincia": "FE",
+"nome": "SP 6 CENTO FINALE EMILIA",
+"network": "",
+"lunghezza_km":9.8
 }
 ]
