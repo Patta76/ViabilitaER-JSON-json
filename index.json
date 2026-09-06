@@ -4766,4 +4766,16 @@
 "network": "",
 "lunghezza_km":9.8
 }
+,
+{
+"id": 598,
+"file": "598.json",
+"tipo": "SP",
+"numero": "6",
+"ref": "SP6",
+"provincia": "PC",
+"nome": "SP 6",
+"network": "",
+"lunghezza_km":28
+}
 ]
