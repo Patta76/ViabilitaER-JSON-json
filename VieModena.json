@@ -463,7 +463,13 @@
     "comune": "Modena",
     "lat": 44.515712,
     "lon": 10.990683
+  },
+  {
+    "nome": "all'innesto con la tangenziale Rabin",
+	"tipo": "Incrocio",
+	"strada": "SP 255",
+	"comune": "Nonantola",
+    "lat": 44.669085,
+    "lon": 10.997651
   }
-
-
 ]
