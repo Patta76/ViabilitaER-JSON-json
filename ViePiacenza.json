@@ -198,11 +198,11 @@
   }
 ,
 {
-    "nome": "sul ponte sul torrente Grondana",
-    "tipo": "ponte",
-    "strada": "Strada provinciale n.50",
-    "comune": "Piacenza",
-    "lat": 44.645743,
-    "lon":  9.497561
-  }
+  "nome": "ponte sul torrente Grondana",
+  "tipo": "ponte",
+  "strada": "SP 50",
+  "comune": "",
+  "lat": 44.645743,
+  "lon": 9.497561
+}
 ]
