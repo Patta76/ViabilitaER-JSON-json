@@ -509,4 +509,15 @@
     "lat": 44.478470,
     "lon": 10.773832
   }
+,
+{
+    "nome": "ponticello pedonale sul canale Diversivo",
+    "tipo": "ponte",
+    "strada": "via Canaletto Rovere",
+    "comune": "Finale Emilia",
+    "lat": 44.841565,
+    "lon": 11.239552
+  }
+
+
 ]
