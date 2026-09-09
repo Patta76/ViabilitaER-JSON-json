@@ -199,4 +199,15 @@
   "lat": 44.645743,
   "lon": 9.497561
 }
+,
+{
+    "nome": "ponte sul torrente Vezzeno",
+    "tipo": "ponte",
+    "strada": "SP6",
+    "comune": "",
+    "lat": 44.917411,
+    "lon":  9.777809
+  }
+
+
 ]

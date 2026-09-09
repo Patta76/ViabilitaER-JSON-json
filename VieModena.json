@@ -450,9 +450,10 @@
   }
 ,
 {
-    "nome": "Strada Provinciale 569 - Ponte sul Rio Pissarotta",
+    "nome": "Ponte sul Rio Pissarotta",
     "tipo": "ponte",
-    "comune": "Modena",
+	"strada": "SP 569",
+    "comune": "",
     "lat": 44.515712,
     "lon": 10.990683
   }
