@@ -472,4 +472,40 @@
     "lat": 44.669085,
     "lon": 10.997651
   }
+,
+{
+    "nome": "civico 3436",
+    "tipo": "ponte",
+    "strada": "SP 20",
+    "comune": "Prignano sulla Secchia",
+    "lat": 44.474071,
+    "lon": 10.769912
+  }
+,
+{
+    "nome": "civico 3436",
+    "tipo": "ponte",
+    "strada": "SP 20",
+    "comune": "Prignano sulla Secchia",
+    "lat": 44.483293,
+    "lon": 10.776465
+  }
+,
+{
+    "nome": "civico 3623",
+    "tipo": "ponte",
+    "strada": "SP 20",
+    "comune": "Prignano sulla Secchia",
+    "lat": 44.474048,
+    "lon": 10.769886
+  }
+,
+{
+    "nome": "Via Matilde di Canossa intersezione con SP20 ",
+    "tipo": "ponte",
+    "strada": "SP20",
+    "comune": "Prignano sulla Secchia",
+    "lat": 44.478470,
+    "lon": 10.773832
+  }
 ]
